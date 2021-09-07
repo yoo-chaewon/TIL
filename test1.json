@@ -49,9 +49,9 @@
     "storeurl": ""
   },
   "apple": {
-    "service": "update",
-    "message": "업데이트 필수 입니다.",
-    "button": "업데이트 하러 가기",
+    "service": "on",
+    "message": "정상 서비스 중입니다.",
+    "button": "",
     "storeurl": ""
   },
   "test": {
