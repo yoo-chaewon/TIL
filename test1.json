@@ -1,0 +1,65 @@
+// 20210907213322
+// https://image.hddfs.com/front/app/test1.json
+
+{
+  "360": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "google": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": "com.ehyundai.HyunDaiDutyFreeShop"
+  },
+  "baidu": {
+    "service": "off",
+    "message": "앱 리뉴얼 진행중입니다.",
+    "button": "확인",
+    "storeurl": ""
+  },
+  "yingyongbao": {
+    "service": "update",
+    "message": "앱이 업데이트 되어야 합니다.",
+    "button": "업데이트 GO",
+    "storeurl": ""
+  },
+  "vivo": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "huawei": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "xiaomi": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "oppo": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "apple": {
+    "service": "on",
+    "message": "정상적인 서비스 중입니다.",
+    "button": "",
+    "storeurl": ""
+  },
+  "test": {
+    "service": "off",
+    "message": "10시부터 그랜드 오픈이 시작됩니다.",
+    "button": "",
+    "storeurl": ""
+  }
+}
