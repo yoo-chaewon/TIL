@@ -7,9 +7,9 @@
     "storeurl": ""
   },
   "google": {
-    "service": "on",
-    "message": "정상적인 서비스 중입니다.",
-    "button": "",
+    "service": "off",
+    "message": "서비스 종료중입니다.",
+    "button": "확인",
     "storeurl": "com.ehyundai.HyunDaiDutyFreeShop"
   },
   "baidu": {
