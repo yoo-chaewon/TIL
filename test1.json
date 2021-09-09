@@ -10,7 +10,7 @@
     "service": "update",
     "message": "(중국어)서비스 업데이트 필수.",
     "button": "스토어 고!",
-    "storeurl": "com.ehyundai.HyunDaiDutyFreeShop"
+    "storeurl": "https://play.google.com/store/apps/details?id=com.ehyundai.HyunDaiDutyFreeShop"
   },
   "baidu": {
     "service": "off",
